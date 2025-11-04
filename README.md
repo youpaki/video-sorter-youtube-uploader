@@ -1,5 +1,7 @@
 # Video Sorter & YouTube Uploader
 
+🎬 **Repository GitHub**: https://github.com/youpaki/video-sorter-youtube-uploader
+
 Un programme Python avec interface graphique pour trier des vidéos en utilisant un modèle de vision AI et les uploader automatiquement sur YouTube.
 
 ## Fonctionnalités
