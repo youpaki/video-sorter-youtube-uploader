@@ -8,6 +8,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+build_env/
 .env
 .venv
 venv/
@@ -18,3 +19,4 @@ env/
 *.log
 chromedriver.exe
 geckodriver.exe
+*.spec.bak
